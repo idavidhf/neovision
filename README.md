@@ -6,7 +6,9 @@ Present scripts allow to calibrate stacks of images in loop using chessboard pla
 #### Use of the code
 
 Script para calibração de imagens
+
 Uso: Duas cameras sincronas
+
 Revisão: 04/12/2017 (DD/MM/AAAA)
 ----------
 
